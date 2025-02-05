@@ -4,4 +4,4 @@ Conversion of bilingual free-text pancreatic cancer radiologic reports to NCCN s
 
 PDAC_SR_API.py: main streamlit application script with python openAI API  
 agreement.ipynb: repeatability test for LLM output, three cycles  
-Error_analysis.ipynb: Error analysis with GPT-4-turbo (Figure 2)  
+Error_analysis.ipynb: Error analysis, GPT-4-turbo (Figure 2)  
